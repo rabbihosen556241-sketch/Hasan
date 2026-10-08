@@ -1,0 +1,6 @@
+{
+  "name": "RoktoBondhu - Blood Donor Platform Bangladesh",
+  "description": "বাংলাদেশের মানুষের জন্য একটি আধুনিক, নিরাপদ ও মানবিক রক্তদাতা ও জরুরি রক্তের অনুরোধের প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
